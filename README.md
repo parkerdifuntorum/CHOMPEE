@@ -1,3 +1,5 @@
+Developed by Parker Difuntorum
+
 # CHOMPEE
 Pasteable sensor patches for detecting chewing using MQTT, Paho, Nano 33 IoT, and the following sensors:
 
